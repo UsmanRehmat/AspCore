@@ -1,0 +1,9 @@
+c:\users\usman\onedrive\documents\visual studio 2017\Projects\MyFirstAppOnCore\MyFirstAppOnCore\bin\Debug\netcoreapp1.1\MyFirstAppOnCore.deps.json
+c:\users\usman\onedrive\documents\visual studio 2017\Projects\MyFirstAppOnCore\MyFirstAppOnCore\bin\Debug\netcoreapp1.1\MyFirstAppOnCore.runtimeconfig.json
+c:\users\usman\onedrive\documents\visual studio 2017\Projects\MyFirstAppOnCore\MyFirstAppOnCore\bin\Debug\netcoreapp1.1\MyFirstAppOnCore.runtimeconfig.dev.json
+c:\users\usman\onedrive\documents\visual studio 2017\Projects\MyFirstAppOnCore\MyFirstAppOnCore\bin\Debug\netcoreapp1.1\MyFirstAppOnCore.dll
+c:\users\usman\onedrive\documents\visual studio 2017\Projects\MyFirstAppOnCore\MyFirstAppOnCore\bin\Debug\netcoreapp1.1\MyFirstAppOnCore.pdb
+c:\users\usman\onedrive\documents\visual studio 2017\Projects\MyFirstAppOnCore\MyFirstAppOnCore\obj\Debug\netcoreapp1.1\MyFirstAppOnCore.csprojResolveAssemblyReference.cache
+c:\users\usman\onedrive\documents\visual studio 2017\Projects\MyFirstAppOnCore\MyFirstAppOnCore\obj\Debug\netcoreapp1.1\MyFirstAppOnCore.AssemblyInfo.cs
+c:\users\usman\onedrive\documents\visual studio 2017\Projects\MyFirstAppOnCore\MyFirstAppOnCore\obj\Debug\netcoreapp1.1\MyFirstAppOnCore.dll
+c:\users\usman\onedrive\documents\visual studio 2017\Projects\MyFirstAppOnCore\MyFirstAppOnCore\obj\Debug\netcoreapp1.1\MyFirstAppOnCore.pdb
