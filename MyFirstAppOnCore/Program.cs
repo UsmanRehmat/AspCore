@@ -9,6 +9,7 @@ namespace MyFirstAppOnCore
 {
     public class Program
     {
+        //abc
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
