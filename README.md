@@ -1,2 +1,0 @@
-# AspCore
-AspCore
