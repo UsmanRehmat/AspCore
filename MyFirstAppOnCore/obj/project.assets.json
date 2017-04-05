@@ -8741,10 +8741,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\usman\\onedrive\\documents\\visual studio 2017\\Projects\\MyFirstAppOnCore\\MyFirstAppOnCore\\MyFirstAppOnCore.csproj",
+      "projectUniqueName": "C:\\Users\\usman\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\MyFirstAppOnCore\\MyFirstAppOnCore\\MyFirstAppOnCore.csproj",
       "projectName": "MyFirstAppOnCore",
-      "projectPath": "c:\\users\\usman\\onedrive\\documents\\visual studio 2017\\Projects\\MyFirstAppOnCore\\MyFirstAppOnCore\\MyFirstAppOnCore.csproj",
-      "outputPath": "c:\\users\\usman\\onedrive\\documents\\visual studio 2017\\Projects\\MyFirstAppOnCore\\MyFirstAppOnCore\\obj\\",
+      "projectPath": "C:\\Users\\usman\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\MyFirstAppOnCore\\MyFirstAppOnCore\\MyFirstAppOnCore.csproj",
+      "outputPath": "C:\\Users\\usman\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\MyFirstAppOnCore\\MyFirstAppOnCore\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
